@@ -4,7 +4,7 @@ import NavItems from './NavItems'
 
 const NavBar = () => {
   return (
-    <div>
+    <div className='flex justify-between'>
       <nav className='navBar'>
         <Link href="/">
             <div className='flex gap-2.5 items-center cursor-pointer'>

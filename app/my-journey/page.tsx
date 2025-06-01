@@ -3,7 +3,7 @@ import React from 'react'
 const MyJourney = () => {
   return (
     <div>
-      My Journey
+      Profile
     </div>
   )
 }
