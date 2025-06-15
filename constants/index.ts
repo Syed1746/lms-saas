@@ -1,4 +1,5 @@
 export const subjects = [
+  "All Subjects",
   "maths",
   "language",
   "science",
